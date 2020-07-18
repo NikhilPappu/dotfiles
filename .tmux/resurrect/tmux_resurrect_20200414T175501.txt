@@ -1,0 +1,16 @@
+pane	0	0	:bash	1	:*	0	:/home/nikhil	1	bash	:
+pane	0	1	:vim	0	:	0	:/home/nikhil/Desktop/ppml_code	1	vim	:vim my_code/Makefile
+pane	0	2	:bash	0	:-	0	:/home/nikhil/Desktop/ppml_code	1	bash	:
+pane	0	2	:bash	0	:-	1	:/home/nikhil/Desktop/ppml_code/aby3	0	bash	:
+pane	1	0	:vim	1	:*	0	:/home/nikhil	1	bash	:
+pane	3	0	:bash	1	:*	0	:/home/nikhil	1	bash	:
+pane	4	0	:bash	1	:*	0	:/home/nikhil	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/nikhil	1	bash	:
+window	0	0	1	:*	bade,210x44,0,0,1
+window	0	1	0	:	badf,210x44,0,0,2
+window	0	2	0	:-	1232,210x44,0,0{105x44,0,0,3,104x44,106,0,4}
+window	1	0	1	:*	bae2,210x44,0,0,5
+window	3	0	1	:*	bae3,210x44,0,0,6
+window	4	0	1	:*	bae4,210x44,0,0,7
+window	5	0	1	:*	bae5,210x44,0,0,8
+state	0	4

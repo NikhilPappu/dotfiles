@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/nikhil'
+let g:netrw_dirhist_2='/home/nikhil/Desktop'
+let g:netrw_dirhist_3='/home/nikhil/Desktop/ppml_code'
+let g:netrw_dirhist_4='/home/nikhil/Desktop/ppml_code/aby3'
+let g:netrw_dirhist_5='/home/nikhil/Desktop/ppml_code'
+let g:netrw_dirhist_6='/home/nikhil/Desktop/ppml_code/my_code'
+let g:netrw_dirhist_7='/home/nikhil/Desktop/ppml_code/aby3/aby3/sh3'

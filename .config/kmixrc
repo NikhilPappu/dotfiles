@@ -1,0 +1,33 @@
+[Configure]
+Height 1080=367
+Width 1920=692
+
+[Global]
+AutoUseMultimediaKeys=true
+ConfigVersion=3
+DefaultCardOnStart=
+MasterMixer=PulseAudio::Playback_Devices:1
+MasterMixerDevice=auto_null
+Menubar=true
+MixerIgnoreExpression=Modem
+Orientation=Horizontal
+Orientation.TrayPopup=Horizontal
+Position=0,0
+Size=522,394
+Soundmenu.Mixers=
+Visible=false
+
+[Profiles]
+PulseAudio::Capture_Devices:1=PulseAudio.Capture_Devices.1.default
+PulseAudio::Capture_Streams:1=PulseAudio.Capture_Streams.1.default
+PulseAudio::Playback_Devices:1=PulseAudio.Playback_Devices.1.default
+PulseAudio::Playback_Streams:1=PulseAudio.Playback_Streams.1.default
+
+[View.PulseAudio.Capture_Devices.1.default.PulseAudio::Capture_Devices:1.alsa_input.pci-0000_00_1f.3.analog-stereo]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.alsa_output.pci-0000_00_1f.3.analog-stereo]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.restore:sink-input-by-media-role:event]
+Split=false

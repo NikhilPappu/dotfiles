@@ -1,0 +1,143 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.youtube.com
+      url: https://www.youtube.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.youtube.com
+      url: https://www.youtube.com/watch?v=17BX4ptPVZ4
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.youtube.com
+      url: https://www.youtube.com/watch?v=lilII5fFEZg
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.google.com
+      url: https://www.google.com/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.youtube.com
+      url: https://www.youtube.com/watch?v=oJc057ueOBc
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.youtube.com
+      url: https://www.youtube.com/watch?v=6amexMgSEAY
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.justinguitar.com
+      url: https://www.justinguitar.com/guitar-lessons/5-blues-licks-from-pattern-1-bl-404
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: vincekotchian.com
+      url: https://vincekotchian.com/blog/gre/my-favorite-way-to-learn-vocabulary-for-the-gre
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: quizlet.com
+      url: https://quizlet.com/449081265/flashcards
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: github.com
+      url: https://github.com/NikhilPappu/gen-ampc
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Outlook
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAATPurxmtypOhs6DoCaVfrc%3D
+    - active: true
+      original-url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAATPurxmtypOhs6DoCaVfrc%3D
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAATPurxmtypOhs6DoCaVfrc%3D?bO=1&sessionId=7b1f6e4d-f46f-489f-8b67-18e17193ae51
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAATPurxmtypOhs6DoCaVfrc%3D?bO=1&sessionId=7b1f6e4d-f46f-489f-8b67-18e17193ae51
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: www.dropbox.com
+      url: https://www.dropbox.com/home/GeneralAdversary/PerfectAMPC
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: iiitbac-my.sharepoint.com
+      url: https://iiitbac-my.sharepoint.com/personal/ashish_choudhury_iiitb_ac_in/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9paWl0YmFjLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2FzaGlzaF9jaG91ZGh1cnlfaWlpdGJfYWNfaW4vRXNiZzQ0OWZ6Q05CdUhBbEIxeEhnRFlCSXJvUER3a05NanZvN2FMdENabENkQT9ydGltZT1LY1l6bDMwdjJFZw&id=%2Fpersonal%2Fashish_choudhury_iiitb_ac_in%2FDocuments%2FNPTEL-DM%2FDM%2FVideos%2FWeek1%2FLec%2002%20B18C001%28Lecture2%29.mp4&parent=%2Fpersonal%2Fashish_choudhury_iiitb_ac_in%2FDocuments%2FNPTEL-DM%2FDM%2FVideos%2FWeek1
+      zoom: 1.0

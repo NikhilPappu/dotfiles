@@ -1,0 +1,220 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4) YouTube
+      url: https://www.youtube.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Google
+      url: https://www.google.com/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: John Petrucci - Glasgow Kiss (cover) - YouTube
+      url: https://www.youtube.com/watch?v=oJc057ueOBc
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: John Petrucci - Glasgow Kiss (Backing Track) - YouTube
+      url: https://www.youtube.com/watch?v=6amexMgSEAY
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3284
+      title: 5 Blues Licks from Pattern 1 | JustinGuitar.com
+      url: https://www.justinguitar.com/guitar-lessons/5-blues-licks-from-pattern-1-bl-404
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 137582
+      title: 1400+ GRE Vocabulary Words List & Flashcards | Vince Kotchian
+      url: https://vincekotchian.com/blog/gre/my-favorite-way-to-learn-vocabulary-for-the-gre
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Flashcards GRE Vocabulary Cartoons: F Words | Quizlet'
+      url: https://quizlet.com/449081265/flashcards
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: vim enter on new line after reaching end of terminal window - Google
+        Search
+      url: https://www.google.com/search?q=vim%20enter%20on%20new%20line%20after%20reaching%20end%20of%20terminal%20window
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 6040
+      title: How to Manage Documents With Long Lines in Vim
+      url: https://agilesysadmin.net/how-to-manage-long-lines-in-vim/
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: vim wrap messes with indent - Google Search
+      url: https://www.google.com/search?q=vim%20wrap%20messes%20with%20indent
+    - pinned: false
+      title: vim 0 for visual line - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk01ZnauQ95Vb9X-hM_sxqJ4QzshTag%3A1596028096442&ei=wHQhX86bGta-3LUPuZUr&q=vim+0+for+visual+line&oq=vim+0+for+visual+line&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB46BwgAEEcQsAM6BAgAEEM6BQgAEJECOgUIABCxAzoICAAQsQMQgwE6BAgjECc6BwgAELEDEEM6AggAOgYIABAWEB46CAgAEBYQChAeOgcIIRAKEKABOgUIIRCgAVCX2xFY-s4SYN3UEmgBcAB4AIAB3AKIAZsokgEGMi0xOC4zmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjO-_T9w_LqAhVWH7cAHbnKCgAQ4dUDCAw&uact=5
+    - pinned: false
+      title: vim 0 for display lines - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk01UEml3oJ672idzY67CEY5tDVoT2A%3A1596028403614&ei=83UhX5OOJdKcmgebnLX4BQ&q=vim+0+for+display+lines&oq=vim+0+for+display+lines&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46BAgjECc6BAgAEEM6BQgAEJECOgcIABCxAxBDOgYIABAWEB46CAgAEBYQChAeOgIIADoFCCEQoAE6BwghEAoQoAFQtSpYq1xglF9oAHAAeACAAc8CiAH3J5IBCDAuOS4xMS4zmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjT07GQxfLqAhVSjuYKHRtODV8Q4dUDCAw&uact=5
+    - pinned: false
+      title: vim display lines - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk032Gr_JnSw537tntjsrGNjV9ZQP6g%3A1596028416841&ei=AHYhX8PbMqTcz7sPyuGVwAc&q=vim+display+lines&oq=vim+display+lines&gs_lcp=CgZwc3ktYWIQAzIECAAQQzIECAAQQzICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yAggAMgIIADoHCAAQRxCwAzoFCC4QsQM6BAgAEAo6CAguEMcBEK8BOgQIIxAnOgUIABCRAjoHCAAQsQMQQzoHCAAQFBCHAlDhPFjYVGDUVWgBcAB4AIABuQKIAbUakgEHMC42LjcuMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjD29iWxfLqAhUk7nMBHcpwBXgQ4dUDCAw&uact=5
+    - pinned: false
+      title: vim scroll by display lines - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk00EH46x7eAjtvX9PwVJx6pbxl3aZA%3A1596028429093&ei=DXYhX9CcBbnB3LUP0aeSqA8&q=vim+scroll+by+display+lines&oq=vim+scroll+by+display+lines&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgcIABBHELADOgQIABBDOgIIADoECCMQJzoHCAAQsQMQQzoFCAAQkQI6CAghEBYQHRAeUMrv-AFYi9T5AWC41fkBaAhwAHgCgAGsBogBlTqSAQ4wLjI1LjYuMS4wLjIuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiQ18ScxfLqAhW5ILcAHdGTBPUQ4dUDCAw&uact=5
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1500
+      title: Move cursor by display lines when wrapping | Vim Tips Wiki | Fandom
+      url: https://vim.fandom.com/wiki/Move_cursor_by_display_lines_when_wrapping#:~:text=To%20make%20it%20easy%2C%20you,to%20move%20by%20display%20lines.
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: vim scroll display lines - Google Search
+      url: https://www.google.com/search?q=vim%20scroll%20display%20lines
+    - pinned: false
+      title: vim scroll wrapped lines - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk03SQCBAe2DyQ6fJzkPYgqp2qvlIww%3A1596036303591&ei=z5QhX8zeI-Paz7sPrpmlwAg&q=vim+scroll+wrapped+lines&oq=vim+scroll+wrap&gs_lcp=CgZwc3ktYWIQARgAMgYIABAWEB46BAgjECc6AggAOgcIABAUEIcCOgQIABANOggIABANEAoQHjoICAAQCBANEB5QkhNYwShg4jRoAHAAeACAAfUCiAG6DpIBBzAuMS40LjKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab
+    - pinned: false
+      title: vim textwidth - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk02Lhf6hESlsslCvvyFxpk_tqBGB_A%3A1596036311643&ei=15QhX-fiJpDgz7sP1t2ZyA8&q=vim+textwidth&oq=vim+textwidth&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgAEEcQsAM6BAgAEEM6BwgAEBQQhwI6BAgjECc6CAgAELEDEJECOgUIABCRAjoKCAAQsQMQFBCHAjoECAAQCjoECAAQDToGCAAQDRAeUOcYWII6YLw8aARwAHgAgAG4A4gBzRySAQkwLjMuNy4yLjKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwinqp3L4vLqAhUQ8HMBHdZuBvkQ4dUDCAw&uact=5
+    - pinned: false
+      title: vim textwidth not working - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk01N_S-20CM3GraEPNUFuC_6cLrmUQ%3A1596036455279&ei=Z5UhX_rSEMLsz7sPoeafoAw&q=vim+textwidth+not+working&oq=vim+textwidth+not+&gs_lcp=CgZwc3ktYWIQAxgAMgIIADIGCAAQFhAeMgYIABAWEB46BwgAEEcQsANQmRhYhx5g1SloAXAAeACAAegBiAHdB5IBBTAuMy4ymAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 180
+      title: unix - VIM textwidth has no effect - Stack Overflow
+      url: https://stackoverflow.com/questions/5136902/vim-textwidth-has-no-effect
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: vimrc comments - Google Search
+      url: https://www.google.com/search?q=vimrc%20comments
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      title: vim capitalize character - Google Search
+      url: https://www.google.com/search?q=vim%20capitalize%20character
+    - pinned: false
+      title: vim capitalize letter - Google Search
+      url: https://www.google.com/search?sxsrf=ALeKk03pRK9SttoWrAWQegDYsyxDPOL_ug%3A1596040001876&ei=QaMhX6mENY-y9QOtz6zQBA&q=vim+capitalize+letter&oq=vim+capitalize+letter&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADOgUIIRCgAToECCMQJzoHCAAQFBCHAlDSEVinHWCsHmgBcAB4AIAB1gGIAeEKkgEFMC41LjOYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjpqO-q8PLqAhUPWX0KHa0nC0oQ4dUDCAw&uact=5
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Switching case of characters | Vim Tips Wiki | Fandom
+      url: https://vim.fandom.com/wiki/Switching_case_of_characters
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAKAAAAKgAAB3UAAAQtAAAACwAAACsAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAA
+    KwAAB3QAAAQs
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 495
+      title: NikhilPappu/gen-ampc
+      url: https://github.com/NikhilPappu/gen-ampc
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Email - IMT2016035 Nikhil Pappu - Outlook
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAH3tYmKORXtElcwoajyQ8YI%3D
+    - pinned: false
+      title: Email - IMT2016035 Nikhil Pappu - Outlook
+      url: https://outlook.office365.com/mail/inbox
+    - pinned: false
+      title: Email - IMT2016035 Nikhil Pappu - Outlook
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAH3tYmKORXtElcwoajyQ8YI%3D
+    - pinned: false
+      title: Email - IMT2016035 Nikhil Pappu - Outlook
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAJtrNW0jvCVNs7Mcu7K%2FMqQ%3D
+    - pinned: false
+      title: Email - IMT2016035 Nikhil Pappu - Outlook
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAMurwJLHeGVMnPupnqXOyrk%3D
+    - pinned: false
+      title: Email - IMT2016035 Nikhil Pappu - Outlook
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAD%2F00RhHvO9Mq%2Bp1s32YU6g%3D
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Email - IMT2016035 Nikhil Pappu - Outlook
+      url: https://outlook.office365.com/mail/inbox/id/AAQkADk5ODljOGJhLWEwNTEtNDZiNS05NDBmLTdhNjUwMjlkZTEyMAAQAOCpqVVFWTdEnySHzMzYrYE%3D
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: PerfectAMPC - Dropbox
+      url: https://www.dropbox.com/home/GeneralAdversary/PerfectAMPC
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Sign in is not complete
+      url: https://iiitbac-my.sharepoint.com/_forms/default.aspx
+      zoom: 1.0

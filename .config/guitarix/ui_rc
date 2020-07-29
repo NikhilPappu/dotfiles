@@ -1,10 +1,10 @@
 {
   "system.mainwin_visible": 0,
-  "system.mainwin_x": 800,
-  "system.mainwin_y": 224,
-  "system.mainwin_height": 600,
-  "system.mainwin_rack_height": 600,
-  "system.preset_window_height": 283,
+  "system.mainwin_x": 9,
+  "system.mainwin_y": 41,
+  "system.mainwin_height": 1026,
+  "system.mainwin_rack_height": 1026,
+  "system.preset_window_height": 625,
   "system.mul_buffer": 1,
   "ui.skin_name": "Guitarix",
   "ui.latency_nowarn": 0,
@@ -14,6 +14,6 @@
   "system.animations": 1,
   "system.show_presets": 1,
   "system.show_toolbar": 0,
-  "system.show_rack": 0,
+  "system.show_rack": 1,
   "system.midiout": 0
 }

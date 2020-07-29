@@ -1,0 +1,12 @@
+pane	0	0	:zsh	0	:	0	:/home/nickp	1	zsh	:
+pane	0	1	:ranger	0	:	0	:/home/nickp/Desktop/crypto/gen-ampc	0	python	:/usr/bin/python -O /usr/bin/ranger
+pane	0	1	:ranger	0	:	1	:/home/nickp/Desktop/crypto/gen-ampc	1	python	:/usr/bin/python -O /usr/bin/ranger
+pane	0	2	:vim	0	:	0	:/home/nickp/Desktop/crypto/gen-ampc	1	vim	:vim -S
+pane	0	3	:git	0	:-	0	:/home/nickp/Desktop/crypto/gen-ampc	1	zsh	:
+pane	0	4	:tabbed	1	:*	0	:/home/nickp	1	zsh	:
+window	0	0	0	:	c13e,172x45,0,0,1
+window	0	1	0	:	9945,172x45,0,0[172x22,0,0,2,172x22,0,23,3]
+window	0	2	0	:	c141,172x45,0,0,4
+window	0	3	0	:-	c142,172x45,0,0,5
+window	0	4	1	:*	c143,172x45,0,0,6
+state	0	

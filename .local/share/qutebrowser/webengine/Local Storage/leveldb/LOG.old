@@ -1,0 +1,81 @@
+2020/07/28-09:53:33.298 871 Reusing MANIFEST /home/nickp/.local/share/qutebrowser/webengine/Local Storage/leveldb/MANIFEST-000001
+2020/07/28-09:53:33.298 871 Recovering log #391
+2020/07/28-09:53:33.298 871 Reusing old log /home/nickp/.local/share/qutebrowser/webengine/Local Storage/leveldb/000391.log 
+2020/07/28-10:24:14.179 9a3 Level-0 table #395: started
+2020/07/28-10:24:14.189 9a3 Level-0 table #395: 35813 bytes OK
+2020/07/28-10:24:14.194 9a3 Delete type=0 #391
+2020/07/28-10:24:14.194 9a3 Compacting 4@0 + 1@1 files
+2020/07/28-10:24:14.247 9a3 Generated table #396@0: 2247 keys, 1614123 bytes
+2020/07/28-10:24:14.247 9a3 Compacted 4@0 + 1@1 files => 1614123 bytes
+2020/07/28-10:24:14.254 9a3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/28-10:24:14.255 9a3 Delete type=2 #392
+2020/07/28-10:24:14.255 9a3 Delete type=2 #395
+2020/07/28-10:24:14.255 9a3 Delete type=2 #388
+2020/07/28-10:24:14.255 9a3 Delete type=2 #386
+2020/07/28-10:24:14.255 9a3 Delete type=2 #390
+2020/07/28-10:48:43.609 9a3 Level-0 table #398: started
+2020/07/28-10:48:43.622 9a3 Level-0 table #398: 18011 bytes OK
+2020/07/28-10:48:43.630 9a3 Delete type=0 #394
+2020/07/28-10:50:53.973 9a3 Level-0 table #400: started
+2020/07/28-10:50:53.990 9a3 Level-0 table #400: 16507 bytes OK
+2020/07/28-10:50:53.997 9a3 Delete type=0 #397
+2020/07/28-11:21:40.868 9a3 Level-0 table #402: started
+2020/07/28-11:21:40.881 9a3 Level-0 table #402: 18234 bytes OK
+2020/07/28-11:21:40.889 9a3 Delete type=0 #399
+2020/07/28-11:56:20.096 9a3 Level-0 table #404: started
+2020/07/28-11:56:20.109 9a3 Level-0 table #404: 22836 bytes OK
+2020/07/28-11:56:20.117 9a3 Delete type=0 #401
+2020/07/28-11:56:20.117 9a3 Compacting 4@0 + 1@1 files
+2020/07/28-11:56:20.160 9a3 Generated table #405@0: 2258 keys, 1613570 bytes
+2020/07/28-11:56:20.160 9a3 Compacted 4@0 + 1@1 files => 1613570 bytes
+2020/07/28-11:56:20.167 9a3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/28-11:56:20.167 9a3 Delete type=2 #402
+2020/07/28-11:56:20.168 9a3 Delete type=2 #400
+2020/07/28-11:56:20.168 9a3 Delete type=2 #404
+2020/07/28-11:56:20.168 9a3 Delete type=2 #398
+2020/07/28-11:56:20.168 9a3 Delete type=2 #396
+2020/07/28-13:31:40.867 9a3 Level-0 table #407: started
+2020/07/28-13:31:40.877 9a3 Level-0 table #407: 20830 bytes OK
+2020/07/28-13:31:40.884 9a3 Delete type=0 #403
+2020/07/28-16:24:12.010 9a3 Level-0 table #409: started
+2020/07/28-16:24:12.025 9a3 Level-0 table #409: 35615 bytes OK
+2020/07/28-16:24:12.035 9a3 Delete type=0 #406
+2020/07/28-18:41:09.593 9a3 Level-0 table #411: started
+2020/07/28-18:41:09.606 9a3 Level-0 table #411: 24121 bytes OK
+2020/07/28-18:41:09.613 9a3 Delete type=0 #408
+2020/07/28-20:09:16.232 9a3 Level-0 table #413: started
+2020/07/28-20:09:16.242 9a3 Level-0 table #413: 15457 bytes OK
+2020/07/28-20:09:16.247 9a3 Delete type=0 #410
+2020/07/28-20:09:16.247 9a3 Compacting 4@0 + 1@1 files
+2020/07/28-20:09:16.282 9a3 Generated table #414@0: 2304 keys, 1613132 bytes
+2020/07/28-20:09:16.282 9a3 Compacted 4@0 + 1@1 files => 1613132 bytes
+2020/07/28-20:09:16.287 9a3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/28-20:09:16.287 9a3 Delete type=2 #413
+2020/07/28-20:09:16.287 9a3 Delete type=2 #411
+2020/07/28-20:09:16.287 9a3 Delete type=2 #409
+2020/07/28-20:09:16.287 9a3 Delete type=2 #407
+2020/07/28-20:09:16.287 9a3 Delete type=2 #405
+2020/07/28-20:24:40.866 9a3 Level-0 table #416: started
+2020/07/28-20:24:40.872 9a3 Level-0 table #416: 24037 bytes OK
+2020/07/28-20:24:40.876 9a3 Delete type=0 #412
+2020/07/28-20:29:40.869 9a3 Level-0 table #418: started
+2020/07/28-20:29:40.888 9a3 Level-0 table #418: 408774 bytes OK
+2020/07/28-20:29:40.893 9a3 Delete type=0 #415
+2020/07/28-20:43:38.137 9a3 Level-0 table #420: started
+2020/07/28-20:43:38.159 9a3 Level-0 table #420: 414896 bytes OK
+2020/07/28-20:43:38.166 9a3 Delete type=0 #417
+2020/07/28-20:45:10.890 9a3 Level-0 table #422: started
+2020/07/28-20:45:10.926 9a3 Level-0 table #422: 394711 bytes OK
+2020/07/28-20:45:10.932 9a3 Delete type=0 #419
+2020/07/28-20:45:10.933 9a3 Compacting 4@0 + 1@1 files
+2020/07/28-20:45:10.994 9a3 Generated table #423@0: 2320 keys, 1615090 bytes
+2020/07/28-20:45:10.994 9a3 Compacted 4@0 + 1@1 files => 1615090 bytes
+2020/07/28-20:45:11.001 9a3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/28-20:45:11.001 9a3 Delete type=2 #414
+2020/07/28-20:45:11.001 9a3 Delete type=2 #418
+2020/07/28-20:45:11.001 9a3 Delete type=2 #416
+2020/07/28-20:45:11.001 9a3 Delete type=2 #422
+2020/07/28-20:45:11.001 9a3 Delete type=2 #420
+2020/07/28-23:58:08.454 9a3 Level-0 table #425: started
+2020/07/28-23:58:08.462 9a3 Level-0 table #425: 12509 bytes OK
+2020/07/28-23:58:08.469 9a3 Delete type=0 #421

@@ -1,4 +1,7 @@
 [kmix]
+Decrease volume  - PCM, USB Audio CODEC=none,none,Decrease Volume
+Increase volume  - PCM, USB Audio CODEC=none,none,Increase Volume
+Toggle mute  - PCM, USB Audio CODEC=none,none,Toggle Mute
 _k_friendly_name=KMix
 decrease_volume=Volume Down,Volume Down,Decrease Volume
 increase_volume=Volume Up,Volume Up,Increase Volume
